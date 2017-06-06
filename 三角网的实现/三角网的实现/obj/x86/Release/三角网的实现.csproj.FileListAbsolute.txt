@@ -1,0 +1,12 @@
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Release\三角网的实现.exe.config
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Release\三角网的实现.exe
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Release\三角网的实现.pdb
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Release\SharpGL.dll
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Release\SharpGL.SceneGraph.dll
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Release\SharpGL.WinForms.dll
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Release\三角网的实现.Properties.Resources.resources
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Release\三角网的实现.SharpGLForm.resources
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Release\三角网的实现.csproj.GenerateResource.Cache
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Release\三角网的实现.exe
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Release\三角网的实现.pdb
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Release\三角网的实现.csprojResolveAssemblyReference.cache

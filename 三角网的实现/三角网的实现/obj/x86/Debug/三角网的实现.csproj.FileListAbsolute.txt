@@ -1,0 +1,27 @@
+E:\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\三角网的实现.exe.config
+E:\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.Properties.Resources.resources
+E:\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.SharpGLForm.resources
+E:\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.csproj.GenerateResource.Cache
+E:\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\三角网的实现.exe
+E:\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\三角网的实现.pdb
+E:\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\SharpGL.dll
+E:\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\SharpGL.SceneGraph.dll
+E:\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\SharpGL.WinForms.dll
+E:\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.exe
+E:\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.pdb
+E:\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.csprojResolveAssemblyReference.cache
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\三角网的实现.exe.config
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.exe
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.pdb
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\三角网的实现.exe
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\三角网的实现.pdb
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\SharpGL.dll
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\SharpGL.SceneGraph.dll
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\bin\Debug\SharpGL.WinForms.dll
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.Properties.Resources.resources
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.SharpGLForm.resources
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.csprojResolveAssemblyReference.cache
+E:\编程\自己编写的程序\程序实践\实验项目\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.csproj.GenerateResource.Cache
+F:\吉威\06132376 何小梁  地信2班\06132376 何小梁  地信2班\第一个作业。opengl\三角网的实现\三角网的实现\bin\Debug\三角网的实现.exe.config
+F:\吉威\06132376 何小梁  地信2班\06132376 何小梁  地信2班\第一个作业。opengl\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.exe
+F:\吉威\06132376 何小梁  地信2班\06132376 何小梁  地信2班\第一个作业。opengl\三角网的实现\三角网的实现\obj\x86\Debug\三角网的实现.pdb
